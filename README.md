@@ -141,6 +141,15 @@ supported_formats: ['jpg', 'png', 'bmp']
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+## 📢 Attribution Requirement
+
+If you use this project in any form (website, app, service, or derivative code), you **must** include the following attribution in your documentation, website footer, or credits page:
+
+> Created by Sridhanush Varma – [https://github.com/Sridhanush-Varma/Image-Processing-Suite](https://github.com/Sridhanush-Varma/Image-Processing-Suite)
+
+Thank you for respecting the work that went into this project! 💻✨
+
+
 ## 🎯 Future Improvements
 
 - [ ] GUI implementation
@@ -152,8 +161,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle)
-Project Link: [https://github.com/username/image-processing-suite](https://github.com/username/image-processing-suite)
+Project Link: [https://github.com/Sridhanush-Varma/image-processing-suite](https://github.com/Sridhanuhs-Varma/Image-Processing-Suite)
 
 ## 🙏 Acknowledgments
 
