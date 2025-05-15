@@ -161,7 +161,7 @@ Thank you for respecting the work that went into this project! 💻✨
 
 ## 📧 Contact
 
-Project Link: [https://github.com/Sridhanush-Varma/image-processing-suite](https://github.com/Sridhanuhs-Varma/Image-Processing-Suite)
+Project Link: [https://github.com/Sridhanush-Varma/Image-Processing-Suite](https://github.com/Sridhanuhs-Varma/Image-Processing-Suite)
 
 ## 🙏 Acknowledgments
 
